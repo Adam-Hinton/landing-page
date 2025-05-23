@@ -42,7 +42,7 @@ body {
     
 }
 
-button {
+.hero-sign {
     background-color: #3882F6;
     border-radius: 8px;
     border: none;
@@ -129,6 +129,8 @@ h3 {
  font-size: 32px;
  font-weight: 900;
  color: #1F2937;
+ padding: 20px;
+ 
 
 }
 
@@ -159,6 +161,11 @@ h3 {
 button {
     border: 2px solid white;
     white-space: nowrap;
+     background-color: #3882F6;
+    border-radius: 8px;
+    color: #F9FAF8;
+     padding: 5px 30px;
+   
    
 }
 h4 {
@@ -168,4 +175,14 @@ h4 {
 
 .stack, p {
     margin: 0;
+}
+
+.footer {
+  background-color: #1f2937;
+  color: white;
+  padding: 30px;
+  text-align: center;
+
+
+ 
 }
